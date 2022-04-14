@@ -1,0 +1,41 @@
+.k{
+    background-color: rgb(44, 111, 212);
+    color: white;
+    font-size: 60px;
+    border-radius: 100%;
+}
+.image_bg{
+    background-image: url(image4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.couleur{
+    color: rgb(44, 111, 212);
+}
+.cool{
+    color: rgb(44, 111, 212);  
+}
+.img{
+    border-radius: 50% 50%;
+}
+.m-5{
+    display: flex!important;
+    justify-content: space-between!important;
+}
+.h-100:hover{
+background-color: rgb(44, 111, 212);
+
+} 
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.marge{
+    height: 200px;
+}
+.petit{
+    height: 300px;
+    margin-top: 100px;
+}
